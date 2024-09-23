@@ -1,0 +1,8 @@
+.event-label.deadline {
+    color: $event-deadline-colour;
+    background-color: $event-deadline-background-colour;
+    &.past-due {
+        color: $event-deadline-past-due-colour;
+        background-color: $event-deadline-past-due-background-colour;
+    }
+  }

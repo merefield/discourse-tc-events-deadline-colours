@@ -1,0 +1,8 @@
+event_deadline_colour:
+  default: "white"
+event_deadline_background_colour:
+  default: "green"
+event_deadline_past_due_colour:
+  default: "white"
+event_deadline_past_due_background_colour:
+  default: "red"
